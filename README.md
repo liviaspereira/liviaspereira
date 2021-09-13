@@ -1,6 +1,6 @@
-### Olá \o/
+### Olá ✨ 
 
-<img src="https://github.com/liviaspereira/liviaspereira/blob/master/j4o.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/liviaspereira/liviaspereira/blob/master/j4o.gif"
 <!--   
 **liviaspereira/liviaspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
