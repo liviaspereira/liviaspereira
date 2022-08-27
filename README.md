@@ -17,10 +17,10 @@ Mais sobre mim:
   <img align="left" alt="LinkedIN" width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
 <a href="https://t.me/Liviaspereira">
-  <img align="left" alt="Telegram" width="100px" src=" 	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img align="left" alt="Telegram" width="100px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
 <a href="https://www.instagram.com/livia.sanpereira/">
-  <img align="left" alt="Instagram" width="100px" src=" 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> 
 
 
